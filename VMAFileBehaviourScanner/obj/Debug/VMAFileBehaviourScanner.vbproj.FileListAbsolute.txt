@@ -1,0 +1,8 @@
+D:\OneDrive\Desktop\VMAFileBehaviourScanner\VMAFileBehaviourScanner\obj\Debug\VMAFileBehaviourScanner.vbproj.AssemblyReference.cache
+D:\OneDrive\Desktop\VMAFileBehaviourScanner\VMAFileBehaviourScanner\obj\Debug\VMAFileBehaviourScanner.vbproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\VMAFileBehaviourScanner\VMAFileBehaviourScanner\bin\Debug\VMAFileBehaviourScanner.exe.config
+D:\OneDrive\Desktop\VMAFileBehaviourScanner\VMAFileBehaviourScanner\bin\Debug\VMAFileBehaviourScanner.exe
+D:\OneDrive\Desktop\VMAFileBehaviourScanner\VMAFileBehaviourScanner\bin\Debug\VMAFileBehaviourScanner.pdb
+D:\OneDrive\Desktop\VMAFileBehaviourScanner\VMAFileBehaviourScanner\obj\Debug\VMAFileBehaviourScanner.exe
+D:\OneDrive\Desktop\VMAFileBehaviourScanner\VMAFileBehaviourScanner\obj\Debug\VMAFileBehaviourScanner.pdb
+D:\OneDrive\Desktop\VMAFileBehaviourScanner\VMAFileBehaviourScanner\obj\Debug\VMAFileBehaviourScanner.exe.config

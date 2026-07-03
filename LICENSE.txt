@@ -1,0 +1,53 @@
+VMA FILE BEHAVIOUR SCANNER
+CUSTOM NON-COMMERCIAL ATTRIBUTION SOURCE LICENSE
+
+Copyright (c) 2026 Vitor Martins Augusto.
+All rights reserved except as expressly granted below.
+
+1. Permission
+
+Permission is granted, free of charge, to download, copy, inspect, compile, run, modify, and redistribute this software and its source code, including modified versions, only under the terms of this license.
+
+2. Non-commercial use only
+
+This software, its source code, binaries, modified versions, and redistributed copies may not be sold, licensed for a fee, rented, bundled as a paid product, used as a paid service, or otherwise distributed for direct commercial gain without prior written permission from Vitor Martins Augusto.
+
+Redistribution must remain free of charge.
+
+3. Attribution and retained references
+
+The following references must not be removed, hidden, obscured, renamed, or made misleading in source code, documentation, user interface text, reports, about screens, project files, repository pages, and redistributed packages:
+
+- the name Vitor Martins Augusto;
+- the name VMA File Behaviour Scanner;
+- references to VAXD where they already exist;
+- the VAXD website link: https://vma-broadcast.com/vaxd-vma-executable-disassembler/
+
+Modified versions must clearly state that they are modified versions and must not imply that they are the original official release unless distributed by Vitor Martins Augusto.
+
+4. Redistribution
+
+You may redistribute the original or modified source code and binaries, provided that:
+
+- this license file is included unchanged;
+- the attribution and VAXD references described above are preserved;
+- the redistribution is free of charge;
+- the redistribution does not misrepresent authorship or origin.
+
+5. No malware or harmful use
+
+This software is intended for defensive static analysis, research, education, false-positive review, and legitimate file inspection. Permission is not granted to use this software to facilitate malware distribution, unauthorised access, fraud, or other unlawful activity.
+
+6. No warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, ACCURACY, OR RELIABILITY.
+
+The author does not guarantee that the software detects malware, proves that a file is safe, or produces complete or error-free analysis results. Static indicators are not proof of malicious behaviour.
+
+7. Limitation of liability
+
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGE, LOSS, FALSE POSITIVE, FALSE NEGATIVE, BUSINESS INTERRUPTION, DATA LOSS, OR OTHER LIABILITY ARISING FROM THE USE, MODIFICATION, REDISTRIBUTION, OR INABILITY TO USE THIS SOFTWARE.
+
+8. Additional permission
+
+Commercial licensing, paid redistribution, removal of branding, or alternative licensing requires prior written permission from Vitor Martins Augusto.
